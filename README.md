@@ -1,3 +1,7 @@
+## Experimental
+What is here is just an prototype and would need more work to reach a point where
+it could be used as a base for anything else.
+
 Prototype for a reactive API
 ============================
 
@@ -36,4 +40,4 @@ So far I've just implemented the communication  server to client, but it's possi
 
 ## Acknowledgment
 
-This projects has been developed as a part of a Hackday for Daft.ie
+This prototype has been developed as a part of a Hackday for Daft.ie
